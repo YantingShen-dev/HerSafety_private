@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # 优先使用环境变量，如果没有则使用默认值（仅用于开发）
-BAIDU_MAP_AK = os.getenv('BAIDU_MAP_AK') or '172ADxi5tafLwkJZl6VHRLpDlAOjfDCH'
+BAIDU_MAP_AK = os.getenv('BAIDU_MAP_AK')
 
 
 class BaiduMapAPI:
