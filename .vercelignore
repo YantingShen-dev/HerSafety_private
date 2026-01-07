@@ -8,6 +8,7 @@ __pycache__
 .gitignore
 *.md
 !README.md
+!frontend/README.md
 前端参考
 test_*.py
 cache
@@ -15,8 +16,8 @@ artifacts
 contracts
 scripts
 hardhat.config.js
-package.json
-package-lock.json
+/package.json
+/package-lock.json
 requirements.txt
 app_simple.py
 GUIDE.md
