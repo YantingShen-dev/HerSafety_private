@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # 优先使用环境变量，如果没有则使用默认值（仅用于开发）
-DEEPSEEK_API_KEY = os.getenv('DEEPSEEK_API_KEY') or 'sk-f6ad1cadc6c545b0bedcdfc021c0f391'
+DEEPSEEK_API_KEY = os.getenv('DEEPSEEK_API_KEY')
 
 
 class DeepSeekAPI:
