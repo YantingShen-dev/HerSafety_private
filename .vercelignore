@@ -1,0 +1,24 @@
+# 忽略不需要部署的文件
+node_modules
+__pycache__
+*.pyc
+.env
+.env.local
+.git
+.gitignore
+*.md
+!README.md
+前端参考
+test_*.py
+cache
+artifacts
+contracts
+scripts
+hardhat.config.js
+package.json
+package-lock.json
+requirements.txt
+app_simple.py
+GUIDE.md
+DEPLOY_SEPOLIA.md
+
