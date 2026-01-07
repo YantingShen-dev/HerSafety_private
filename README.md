@@ -92,7 +92,3 @@ HerSafety 是一个基于区块链技术的女性安全地图应用，允许用�
 ## 许可证
 
 Private Project
-
-# HerSafety_private
-# HerSafety_private
-# HerSafety_private
